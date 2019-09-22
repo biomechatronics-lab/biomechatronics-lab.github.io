@@ -352,7 +352,7 @@ div.nav-controls a.next {
 	z-index:99;
 }
  div.slideshow-container {
-	position: relative;
+	position: center; /*relative*/
 	height: 620px; /* This should be set to be at least the height of the largest image in the slideshow */
 	z-index:1;
 	width:620px;
