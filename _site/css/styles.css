@@ -34,7 +34,7 @@ a {text-decoration: none;}
 	
   }
   
-#labname {font-family: "open sans", "Franklin Gothic Bold", Haettenschweiler, "Arial Black", "sans-serif", Impact; font-size: 20px; color: #BBB7B7; margin: 10px 0; margin-bottom: 20px;}
+#labname {font-family:"Franklin Gothic Bold", Haettenschweiler, "Arial Black", "sans-serif", Impact; font-size: 20px; color: #BBB7B7; margin: 10px 0; margin-bottom: 20px;}
 
 nav {
 	height: 40px;
@@ -215,3 +215,8 @@ footer {
 
 .wikibox {width: 71px; margin-left: auto; margin-right: 0;}
 .wikibox p {text-algn: right; font-size: 12px; color: #233D82;}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("https://fonts.googleapis.com/css?family=Open+Sans");
+}
